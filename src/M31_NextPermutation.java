@@ -3,6 +3,6 @@
  */
 public class M31_NextPermutation {
     public void nextPermutation(int[] nums) {
-        
+
     }
 }
